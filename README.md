@@ -1,1 +1,1 @@
-# STARTUP_ECOLIXO
+# Home Pet: um amigo para seu melhor amigo!

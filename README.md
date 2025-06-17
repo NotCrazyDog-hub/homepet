@@ -41,5 +41,5 @@
 ?>
 
 <?php
-  echo $e.$n.$i.$g.$m.$a.$+
+  #echo $e.$n.$i.$g.$m.$a.$+
 ?>
